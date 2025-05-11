@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Microsoft Office temporary files
+~$*
+
+# Xcode and macOS developer files
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
+*.xcuserdata/
+*.idea/
+
+# Build artifacts
+*.out
+*.o
+*.obj
+*.exe
+
+# C++ backup files
+*~
+*.bak
+*.swp
+
